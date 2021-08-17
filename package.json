@@ -1,0 +1,15 @@
+{
+  "name": "testRepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AnthGill95/testRepo.git",
+  "author": "Anthony Gillespie - Home <anthony.gillespie123@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^7.0.1"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "test": "yarn"
+  }
+}
